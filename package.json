@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarveyM98/nodejsExamples.git"
+  },
+  "author": "Harvey Marin <hsmc10n@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarveyM98/nodejsExamples/issues"
+  },
+  "homepage": "https://github.com/HarveyM98/nodejsExamples#readme"
+}
