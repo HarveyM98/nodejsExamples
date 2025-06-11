@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HarveyM98/nodejsExamples/issues"
   },
-  "homepage": "https://github.com/HarveyM98/nodejsExamples#readme"
+  "homepage": "https://github.com/HarveyM98/nodejsExamples#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
