@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/HarveyM98/nodejsExamples#readme",
   "dependencies": {
+    "@types/is-number": "^7.0.5",
     "is-odd": "^3.0.1"
   }
 }
