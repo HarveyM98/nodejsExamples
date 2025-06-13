@@ -6,7 +6,6 @@ console.error('Console.error(): Para Errores');
 
 
 //Tablas
-
 const usuarios = [
     { nombre: 'Ana', edad: 28, rol: 'Desarrollador' },
     { nombre: 'Juan', edad: 34, rol: 'Diseñador' },
@@ -18,7 +17,6 @@ console.table(usuarios, ['nombre', 'rol']);
 
 
 //Time
-
 console.time('Operación');
 for (let i=0; i< 100000; i++){
     //Operación que consume tiempo
@@ -35,7 +33,6 @@ console.countReset('contador');
 console.count('contador');
 
 //Agrupación
-
 console.group('Grupo Pincipal');
 console.log('Información 1');
 console.group('Subgrupo');
